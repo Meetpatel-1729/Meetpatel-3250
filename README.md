@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently exploring data structures such as Hashmap, Dynamic programming and so on
 - 🌱 I’m currently learning Lua (Love library), Unity Game engine
 - 👯 I’m looking to collaborate on creating a game using Lua or Python
